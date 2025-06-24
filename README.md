@@ -13,6 +13,15 @@ Currently, I’m learning Next.js and working on a parcel delivery web app.
 I enjoy solving real-world problems through code and continuously learning new technologies to improve my craft.
 
 
+### 🔭 Currently Working On:
+- A parcel delivery web application
+- My personal portfolio site using React and Tailwind CSS
+
+### 🌱 Currently Learning:
+- Next.js and server-side rendering (SSR)
+- Payment gateway integration with Stripe
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/md.abdullah.hossain.16133) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/md.hossain8374) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/mdabdullah162005/?actingBusinessId=1099230358957962274) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@md.abdullah8423) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MAbdullah38476) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@MdAbdullah-m1c5z) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdabdullah162005@gmail.com) 
 
