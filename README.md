@@ -37,13 +37,13 @@ I enjoy solving real-world problems through code and continuously learning new t
 ### 🔥 GitHub Streak:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=**your_username**&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdullahr&theme=radical" />
 </p>
 
 ### 🧑‍💻 Most Used Languages:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**your_username**&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdullahr&layout=compact&theme=radical" />
 </p>
 
 
