@@ -36,6 +36,7 @@ I enjoy solving real-world problems through code and continuously learning new t
 # 📊 GitHub Stats:
 ![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=mdabdullahr&show_icons=true&theme=radical)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mdabdullahr&theme=dark&hide_border=false)<br/>
+### 🧑‍💻 Most Used Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdullahr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
