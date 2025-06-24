@@ -42,9 +42,8 @@ I enjoy solving real-world problems through code and continuously learning new t
 ### 📊 My GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mdabdullahr&theme=github" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdabdullahr&theme=github" />
 </p>
-
 
 
 
