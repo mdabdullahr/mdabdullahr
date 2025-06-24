@@ -9,7 +9,7 @@
 
 Hi! I'm Md Abdullah, a passionate MERN Stack Developer from Bangladesh 🇧🇩.  
 I love building clean, modern, and responsive full-stack web applications using MongoDB, Express.js, React, and Node.js.  
-Currently, I’m learning Next.js and working on a parcel delivery web app.  
+Currently, I’m learning Next.js and working on a parcel delivery web app. 
 I enjoy solving real-world problems through code and continuously learning new technologies to improve my craft.
 
 
