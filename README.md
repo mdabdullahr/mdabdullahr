@@ -1,5 +1,10 @@
 <img src="https://i.ibb.co/qY7PJLbH/Black-Minimalist-Motivation-Quote-Linked-In-Banner-1.png"/>
 
+
+
+profile views :  <img src="https://komarev.com/ghpvc/?username=mdabdullahr&style=flat-square&color=blue" />
+
+
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 
 <h3 align="center">MERN Stack Developer from DB</h3>
