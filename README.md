@@ -1,5 +1,7 @@
 <img src="https://i.ibb.co/qY7PJLbH/Black-Minimalist-Motivation-Quote-Linked-In-Banner-1.png"/>
 
+# Hi 👋, I'm Abdullah
+
 # 💫 About Me:
 Hi! I'm Md Abdullah, a passionate Full Stack Web Developer from Bangladesh 🇧🇩.  <br>I love building responsive and user-friendly web apps using technologies like React, Node.js, Express, and MongoDB.  <br>Currently, I'm learning Next.js and working on a tourism-based project.  <br><br>I'm always excited to explore new technologies and aim to become a professional software engineer in the near future.
 
