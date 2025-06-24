@@ -34,7 +34,12 @@ I enjoy solving real-world problems through code and continuously learning new t
   <img src="https://github-readme-stats.vercel.app/api?username=mdabdullahr&show_icons=true&theme=radical" />
 </p>
 
-![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=mdabdullahr&show_icons=true&theme=radical)
+### 📊 My GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=mdabdullahr&theme=github" />
+</p>
+
 
 
 
