@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 
-<p align="center">MERN Stack Developer</p>
+<h3 align="center">MERN Stack Developer from DB</h3>
 
 
 ### 💫 About Me:
