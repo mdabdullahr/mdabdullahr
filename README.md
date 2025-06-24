@@ -35,13 +35,13 @@ I enjoy solving real-world problems through code and continuously learning new t
 
 ### 📊 GitHub Stats:
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=mdabdullahr&show_icons=true&theme=radical" />
 </p>
 
 ### 📊 My GitHub Contribution Graph
 
-<p align="center">
+<p>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdabdullahr&theme=github" />
 </p>
 
@@ -49,7 +49,7 @@ I enjoy solving real-world problems through code and continuously learning new t
 
 ### 🧑‍💻 Most Used Languages:
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdullahr&layout=compact&theme=radical" />
 </p>
 
