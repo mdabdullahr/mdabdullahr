@@ -2,7 +2,7 @@
 
 
 
-profile views :  <img src="https://komarev.com/ghpvc/?username=mdabdullahr&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=mdabdullahr&style=flat-square&color=blue" />
 
 
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
