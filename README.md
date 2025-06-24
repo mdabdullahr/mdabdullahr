@@ -34,6 +34,7 @@ I enjoy solving real-world problems through code and continuously learning new t
   <img src="https://github-readme-stats.vercel.app/api?username=mdabdullahr&show_icons=true&theme=radical" />
 </p>
 
+![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=mdabdullahr&show_icons=true&theme=radical)
 
 
 
