@@ -5,8 +5,12 @@
 <h3 align="center">MERN Stack Developer from DB</h3>
 
 
-### 💫 About Me:
-Hi! I'm Md Abdullah, a passionate Full Stack Web Developer from Bangladesh 🇧🇩.  <br>I love building responsive and user-friendly web apps using technologies like React, Node.js, Express, and MongoDB.  <br>Currently, I'm learning Next.js and working on a tourism-based project.  <br><br>I'm always excited to explore new technologies and aim to become a professional software engineer in the near future.
+## 🧑‍💻 About Me
+
+Hi! I'm Md Abdullah, a passionate MERN Stack Developer from Bangladesh 🇧🇩.  
+I love building clean, modern, and responsive full-stack web applications using MongoDB, Express.js, React, and Node.js.  
+Currently, I’m learning Next.js and working on a parcel delivery web app.  
+I enjoy solving real-world problems through code and continuously learning new technologies to improve my craft.
 
 
 ## 🌐 Socials:
