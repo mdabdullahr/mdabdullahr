@@ -36,9 +36,7 @@ I enjoy solving real-world problems through code and continuously learning new t
 
 ### 🔥 GitHub Streak:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdabdullahr&theme=radical" />
-</p>
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=mdabdullahr&theme=radical)
 
 
 ### 🧑‍💻 Most Used Languages:
