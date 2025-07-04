@@ -1,7 +1,6 @@
 <img src="https://i.ibb.co/qY7PJLbH/Black-Minimalist-Motivation-Quote-Linked-In-Banner-1.png"/>
 
 
-
 <img src="https://komarev.com/ghpvc/?username=mdabdullahr&style=flat-square&color=blue" />
 
 
